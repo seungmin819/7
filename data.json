@@ -1,0 +1,228 @@
+{
+  "shelters": [
+    {
+      "id": 1,
+      "name": "마포 사랑보호소",
+      "lat": 37.5583,
+      "lng": 126.9244,
+      "address": "서울 마포구 월드컵북로 120",
+      "phone": "02-3142-8820",
+      "distance": "850m",
+      "animalCount": 18,
+      "urgentNeed": "주말 산책 봉사자 4명 모집 중",
+      "urgentCategory": "#주말산책봉사",
+      "categories": ["#주말산책봉사", "#견사청소"],
+      "openHours": "10:00 - 18:00 (주말 운영)",
+      "color": "orange",
+      "pets": [
+        { "name": "복순이", "type": "강아지", "breed": "진도믹스", "age": "3살", "gender": "여아", "image": "https://images.unsplash.com/photo-1543466835-00a7907e9de1?w=400&auto=format&fit=crop&q=80" },
+        { "name": "초롱이", "type": "강아지", "breed": "포메라니안 믹스", "age": "2살", "gender": "남아", "image": "https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?w=400&auto=format&fit=crop&q=80" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "연남 댕냥쉼터",
+      "lat": 37.5632,
+      "lng": 126.9215,
+      "address": "서울 마포구 동교로 210",
+      "phone": "02-332-1577",
+      "distance": "1.2km",
+      "animalCount": 12,
+      "urgentNeed": "배변패드 및 시니어 고양이 건식 사료 후원 필요",
+      "urgentCategory": "#물품후원필요",
+      "categories": ["#물품후원필요", "#임시보호"],
+      "openHours": "11:00 - 19:00",
+      "color": "green",
+      "pets": [
+        { "name": "초코", "type": "고양이", "breed": "코리안숏헤어", "age": "1살", "gender": "여아", "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=400&auto=format&fit=crop&q=80" },
+        { "name": "호랑이", "type": "고양이", "breed": "치즈태비", "age": "4살", "gender": "남아", "image": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=400&auto=format&fit=crop&q=80" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "서교 희망동물센터",
+      "lat": 37.5539,
+      "lng": 126.9189,
+      "address": "서울 마포구 양화로 11길 45",
+      "phone": "02-325-9901",
+      "distance": "1.8km",
+      "animalCount": 24,
+      "urgentNeed": "대형견사 물청소 및 묘사 소독 봉사자 모집",
+      "urgentCategory": "#견사청소",
+      "categories": ["#견사청소", "#주말산책봉사"],
+      "openHours": "09:30 - 18:30",
+      "color": "orange",
+      "pets": [
+        { "name": "뭉치", "type": "강아지", "breed": "리트리버 믹스", "age": "1살", "gender": "남아", "image": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=400&auto=format&fit=crop&q=80" }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "망원 나눔반려쉼터",
+      "lat": 37.5562,
+      "lng": 126.9078,
+      "address": "서울 마포구 포은로 78",
+      "phone": "02-392-4114",
+      "distance": "2.1km",
+      "animalCount": 16,
+      "urgentNeed": "지방 보호소 동물 서울 이동 봉사자 (차량 지원)",
+      "urgentCategory": "#이동봉사",
+      "categories": ["#이동봉사", "#임시보호"],
+      "openHours": "10:00 - 17:00",
+      "color": "green",
+      "pets": [
+        { "name": "단비", "type": "강아지", "breed": "스피츠 믹스", "age": "5개월", "gender": "여아", "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=400&auto=format&fit=crop&q=80" }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "상암 햇살동물구호소",
+      "lat": 37.5765,
+      "lng": 126.8982,
+      "address": "서울 마포구 월드컵로 240",
+      "phone": "02-300-2451",
+      "distance": "3.4km",
+      "animalCount": 31,
+      "urgentNeed": "치료 중인 유기견 단기 임시보호 가정 급구",
+      "urgentCategory": "#임시보호",
+      "categories": ["#임시보호", "#물품후원필요", "#주말산책봉사"],
+      "openHours": "10:00 - 18:00",
+      "color": "orange",
+      "pets": [
+        { "name": "해피", "type": "강아지", "breed": "말티즈 믹스", "age": "5살", "gender": "남아", "image": "https://images.unsplash.com/photo-1544568100-847a948585b9?w=400&auto=format&fit=crop&q=80" }
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "id": 1,
+      "petName": "복순이",
+      "title": "입양 100일 차, 털빛이 윤기나요! ✨",
+      "desc": "처음엔 철창 구석에서 벌벌 떨기만 하던 아이가 이제는 매일 산책 가자고 먼저 현관문 앞을 지켜요. 온 가족의 비타민이 되었습니다.",
+      "beforeImg": "https://images.unsplash.com/photo-1543466835-00a7907e9de1?w=500&auto=format&fit=crop&q=80",
+      "afterImg": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=500&auto=format&fit=crop&q=80",
+      "tags": ["#진도믹스", "#마포사랑보호소", "#입양100일차"],
+      "likes": 1248,
+      "liked": false,
+      "author": "복순이엄마",
+      "date": "2026.09.12"
+    },
+    {
+      "id": 2,
+      "petName": "초코",
+      "title": "겁쟁이에서 산책 대장으로 변신! 🦁",
+      "desc": "작은 발소리에도 구석에 숨던 초코가 이제는 무릎 위에서 골골송을 부르고 마당 산책도 씩씩하게 다니는 애교 만점 고양이가 되었어요.",
+      "beforeImg": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=500&auto=format&fit=crop&q=80",
+      "afterImg": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=500&auto=format&fit=crop&q=80",
+      "tags": ["#코리안숏헤어", "#연남댕냥쉼터", "#무릎냥이"],
+      "likes": 982,
+      "liked": false,
+      "author": "초코집사",
+      "date": "2026.09.14"
+    },
+    {
+      "id": 3,
+      "petName": "뭉치",
+      "title": "피부병 완치! 털 미남 등극 🐶",
+      "desc": "안락사 위기에서 구조되었던 뭉치, 병원 치료와 따뜻한 보살핌 덕에 풍성한 황금빛 털을 되찾고 도그파크의 인기 스타가 되었어요.",
+      "beforeImg": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=500&auto=format&fit=crop&q=80",
+      "afterImg": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=500&auto=format&fit=crop&q=80",
+      "tags": ["#리트리버믹스", "#서교희망동물센터", "#완치성공"],
+      "likes": 2105,
+      "liked": false,
+      "author": "뭉치형아",
+      "date": "2026.09.10"
+    },
+    {
+      "id": 4,
+      "petName": "보리",
+      "title": "눈치 보던 시절 안녕, 이젠 거실의 왕 👑",
+      "desc": "혼자 방치되어 뼈만 앙상했던 보리가 지금은 통통하고 건강하게 살이 올라 매일 밤 제 배 위에서 잠듭니다.",
+      "beforeImg": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=500&auto=format&fit=crop&q=80",
+      "afterImg": "https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?w=500&auto=format&fit=crop&q=80",
+      "tags": ["#포메믹스", "#망원나눔쉼터", "#사랑둥이"],
+      "likes": 753,
+      "liked": false,
+      "author": "보리누나",
+      "date": "2026.09.05"
+    }
+  ],
+  "mbtiQuestions": [
+    {
+      "step": 1,
+      "question": "주말이나 쉬는 날, 당신의 힐링 방식은?",
+      "options": [
+        { "text": "공원이나 자연으로 나가 활기차게 산책하기 🌳", "trait": "E" },
+        { "text": "아늑한 방에서 음악 듣고 OTT 보며 뒹굴뒹굴 ☕", "trait": "I" }
+      ]
+    },
+    {
+      "step": 2,
+      "question": "반려동물과 교감할 때 더 선호하는 스타일은?",
+      "options": [
+        { "text": "꼬리 흔들며 온몸으로 사랑을 표현하는 적극적인 교감 💛", "trait": "A" },
+        { "text": "곁에 조용히 머물며 은근하게 체온을 나누는 편안한 교감 🌿", "trait": "C" }
+      ]
+    },
+    {
+      "step": 3,
+      "question": "현재 주거 환경 및 하루 집을 비우는 시간은?",
+      "options": [
+        { "text": "재택근무/가족이 늘 함께 있어 케어할 시간이 많아요 🏠", "trait": "H" },
+        { "text": "출퇴근 일정이 있어 독립적인 성향이 잘 맞아요 🏢", "trait": "W" }
+      ]
+    },
+    {
+      "step": 4,
+      "question": "어떤 매력에 더 마음이 끌리나요?",
+      "options": [
+        { "text": "눈빛만 봐도 씩 웃음 짓게 하는 충성스럽고 든든한 댕댕이 🐶", "trait": "D" },
+        { "text": "새침하지만 한번 마음 열면 무한 꾹꾹이 해주는 냥이 🐱", "trait": "K" }
+      ]
+    }
+  ],
+  "mbtiResults": {
+    "E-A-H-D": {
+      "type": "햇살 같은 활력왕 믹스견",
+      "targetPet": "복순이 (마포 사랑보호소)",
+      "badge": "찰떡 매칭 99%",
+      "desc": "당신의 풍부한 에너지와 따뜻한 시간을 온전히 나눌 수 있는 복순이가 운명의 짝꿍입니다! 매일 함께 산책하며 세상에서 가장 행복한 견생을 선물해 줄 수 있어요.",
+      "image": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=500&auto=format&fit=crop&q=80",
+      "hashTags": ["#활력왕", "#산책메이트", "#진도믹스", "#미소천사"]
+    },
+    "I-C-W-K": {
+      "type": "조용하고 다정한 집순이 냥이",
+      "targetPet": "초코 (연남 댕냥쉼터)",
+      "badge": "찰떡 매칭 98%",
+      "desc": "조용하고 아늑한 휴식을 사랑하는 당신에게 초코는 최고의 단짝이에요. 독립적이면서도 퇴근 후 무릎 위에서 들려주는 골골송이 하루의 피로를 싹 씻어줄 거예요.",
+      "image": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=500&auto=format&fit=crop&q=80",
+      "hashTags": ["#무릎냥", "#차분한성격", "#골골송장인", "#코숏"]
+    },
+    "DEFAULT_DOG": {
+      "type": "충직하고 사랑스러운 든든 댕댕이",
+      "targetPet": "뭉치 (서교 희망동물센터)",
+      "badge": "찰떡 매칭 96%",
+      "desc": "보호자만 바라보는 해바라기 뭉치가 당신을 기다리고 있습니다. 따뜻한 사랑으로 서로의 든든한 가족이 되어보세요.",
+      "image": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=500&auto=format&fit=crop&q=80",
+      "hashTags": ["#교감왕", "#듬직한강아지", "#리트리버믹스"]
+    },
+    "DEFAULT_CAT": {
+      "type": "은근한 애정표현의 달인 냥이",
+      "targetPet": "호랑이 (연남 댕냥쉼터)",
+      "badge": "찰떡 매칭 95%",
+      "desc": "겉은 도도하지만 알면 알수록 애교 만점인 치즈냥이 호랑이와 마음을 나눠보세요. 곁을 지키는 묵묵한 따스함을 느낄 수 있습니다.",
+      "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=500&auto=format&fit=crop&q=80",
+      "hashTags": ["#치즈태비", "#힐링요정", "#다정한동반자"]
+    }
+  },
+  "volunteers": [
+    {
+      "id": 1,
+      "shelterName": "마포 사랑보호소",
+      "applicant": "홍길동",
+      "category": "주말 산책 봉사",
+      "date": "2026-09-20",
+      "status": "접수완료"
+    }
+  ]
+}
